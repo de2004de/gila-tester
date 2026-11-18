@@ -1,0 +1,5 @@
+# Track only the reviewed source files.
+*
+!/.gitignore
+!/README.md
+!/app.py
